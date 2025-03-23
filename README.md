@@ -15,10 +15,6 @@ There are 3 specific elements of such a process -
 
 The paper describes a method by which they can linearly optimise the amount of resources required to improve patient TAT based on a 160 day simulation study conducted using SimPY and PuLP, which is then fed into a Multi-Linear Regression model. The output weights from the model are subject to a linear optimisation problem, subject to some pre-defined constraints.
 
-## Outcome from implementation, compared to paper!
-
-Coming soon!
-
 ## Credit : 
 [1] *Battu, Anudeep, S. Venkataramanaiah, and R. Sridharan. "Patient Flow Optimization in an Emergency Department Using SimPy-Based Simulation Modeling and Analysis: A Case Study." In Applications of Computation in Mechanical Engineering: Select Proceedings of 3rd International Conference on Computing in Mechanical Engineering (ICCME 2021), pp. 271-280. Singapore: Springer Nature Singapore, 2022.*
 [2] 
